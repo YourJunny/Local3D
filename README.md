@@ -61,6 +61,8 @@ The app warns you when a model may be too large for your card, and names one tha
 
 Get it from the **[Releases page](https://github.com/YourJunny/Local3D/releases)**. The current version is **0.1.0**, a pre-release.
 
+> **Not published yet.** The 0.1.0 files are built but have not been put on the Releases page yet. If that page is empty, check back soon.
+
 | File | Size | For |
 | --- | --- | --- |
 | `Local3D-0.1.0-win-x64-setup.exe` | 150 MB | Windows 10/11. The installer. This is the one most people want. |
