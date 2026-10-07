@@ -73,6 +73,11 @@ Get it from the **[Releases page](https://github.com/YourJunny/Local3D/releases)
 
 The downloads contain no AI models and no generation engine. The app downloads those later, only when you click.
 
+> [!WARNING]
+> **Windows will warn you that this file isn't trusted. This is expected, and you can safely continue.**
+>
+> You will see "Windows protected your PC" and "Unknown publisher". Your browser may also say the file is "not commonly downloaded". Windows shows this for every program that isn't code-signed, and code signing is a paid certificate that this free app doesn't have yet. The warning does not mean anything was found in the file: the download is safe. Get it only from the [Releases page](https://github.com/YourJunny/Local3D/releases), and if you want to be sure it's the published file, [check its checksum](#check-your-download). How to get past the warning is under [Install](#windows).
+
 ### Check your download
 
 The installers are not code-signed, so it is worth checking that the file you got is the file that was published. Each file has a SHA-256 checksum:
